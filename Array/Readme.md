@@ -1,3 +1,5 @@
+# Arrays Subsection
+
 * Subarray with Given Sum -> Done
 * Count the Triplets -> Done
 * Kadane's Lago -> Done
